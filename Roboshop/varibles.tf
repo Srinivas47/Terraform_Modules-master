@@ -14,6 +14,7 @@ variable "aws_internet_gateway" {}
 # varibles for the public subnet
 variable "public_subnet" {}
 variable "public_subnet_cidr" {}
+
 variable "availability_zone" {}
 
 
